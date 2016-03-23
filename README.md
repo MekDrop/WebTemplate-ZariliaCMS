@@ -10,4 +10,4 @@ If You want to use this template design please write at least in your website ME
 Apart such attibution, you can use free to use how You want.
 
 # Screenshot
-![Design screenshot in the browser](https://raw.githubusercontent.com/MekDrop/Zarilia-CMS-Design-By-Milda/master/screenshots/01.png)
+![Design screenshot in the browser](https://raw.githubusercontent.com/MekDrop/WebTemplate-ZariliaCMS/master/screenshots/01.png)
