@@ -1,0 +1,5 @@
+If You want to use this template design please write at least in your website META tags or comments that You use temnplate based on this design... f.e.:
+
+<!-- This website use template based on WebTemplate-ZariliaCMS by mildute84 -->
+
+Apart such attibution, you can use free to use how You want.
